@@ -15,7 +15,7 @@ class Modulo():
 
 class App(Modulo):
     def main(self):
-        print('''Sabor Express
+        print('''Sabor Favorito
         
                 1 - Cadastrar restaurante
                 2 - Listar Restaurante
