@@ -15,7 +15,7 @@ class Modulo():
 
 class App(Modulo):
     def main(self):
-        print('''Sabor Favorito
+        print('''Sabor Express
         
                 1 - Cadastrar restaurante
                 2 - Listar Restaurante
@@ -39,4 +39,3 @@ class App(Modulo):
 if __name__ == '__main__':
     my_app = App()
     my_app.main()
-    print('Olá mundo')
