@@ -1,5 +1,7 @@
 import os
 
+print('oi')
+
 
 class Modulo():
     @classmethod
@@ -38,3 +40,4 @@ class App(Modulo):
 
 if __name__ == '__main__':
     my_app = App()
+    my_app.main()
